@@ -1,0 +1,12 @@
+body{
+    background: url(./img/1616963681_57-p-serii-fon-60.jpg);
+}
+table{
+    width: 1000px;
+    height: 700px;
+    text-align: center;
+}
+.str_1{
+    font-size: 25px;
+    color: rgb(201, 34, 12);
+}
